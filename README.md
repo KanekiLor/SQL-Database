@@ -16,6 +16,24 @@
 - **Parts Inventory:** Keep an eye on parts stock levels, track orders, and set up alerts for reordering.
 - **Service Reports:** Generate detailed service reports for customer review and internal documentation.
 
+### Photos from Interface
+<div align="center">
+   Adding a Client
+  <img src="https://github.com/KanekiLor/SQL-Database/blob/main/Service%20Auto/MediaSql/1.png" alt="Image 1" width="300">
+ 
+   Deleting a Client
+  <img src="https://github.com/KanekiLor/SQL-Database/blob/main/Service%20Auto/MediaSql/2.png" alt="Image 2" width="300"> 
+
+   Query Request
+  <img src="https://github.com/KanekiLor/SQL-Database/blob/main/Service%20Auto/MediaSql/3.png" alt="Image 2" width="300"> 
+
+   Query Request 2
+  <img src="https://github.com/KanekiLor/SQL-Database/blob/main/Service%20Auto/MediaSql/4.png" alt="Image 2" width="300">
+
+   List of data
+  <img src="https://github.com/KanekiLor/SQL-Database/blob/main/Service%20Auto/MediaSql/Untitled.png" alt="Image 2" width="300">
+</div>
+
 ## 🛠️ Installation
 
 ### Requirements
